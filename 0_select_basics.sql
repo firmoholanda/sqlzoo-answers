@@ -1,6 +1,16 @@
 -- 0 SELECT basics
 
 -- 1.
-SELECT name, population
-  FROM world
-  WHERE population BETWEEN 1000000 AND 1250000
+SELECT population 
+FROM world
+WHERE name = 'Germany'
+
+-- 2.
+SELECT name, population 
+FROM world
+  WHERE name IN ('Sweden', 'Norway', 'Denmark');
+
+-- 3.
+SELECT name, area
+FROM world
+WHERE area BETWEEN 200000 AND 250000
