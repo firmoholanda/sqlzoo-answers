@@ -19,7 +19,7 @@ this project can be found in https://github.com/firmoholanda/sqlzoo-answers
 
 ### ✨ [code picture]
 
-<img alt="project image" src="https://github.com/firmoholanda/sqlzoo-answers/img/screen.png"/>
+<img alt="project image" src="https://github.com/firmoholanda/sqlzoo-answers/blob/development/img/screen.png"/>
 
 
 
