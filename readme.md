@@ -1,5 +1,8 @@
 # 📃 sqlzoo-answers
 
+this project is part of a series of projects to be completed by students of [microverse](https://www.microverse.org/ 'the global school for remote software developers!').
+
+in this project, i will use SQL Zoo online resource that lets us build and run queries against existing tables. you can find this project [here](https://www.theodinproject.com/courses/databases/lessons/databases-and-sql)
 
 
 ## 📡 technologies used
